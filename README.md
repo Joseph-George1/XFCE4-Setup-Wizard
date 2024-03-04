@@ -58,7 +58,7 @@ The script installs the following XFCE4 components:
 - `xfce4-windowck-plugin`
 - `xfce4-notifyd`
 - `xfce4-xkb-plugin`
-
+```
 ## Usage
 
 1. Clone the repository:

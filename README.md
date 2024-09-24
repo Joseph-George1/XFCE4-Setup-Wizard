@@ -1,5 +1,3 @@
-Certainly! Here's an example `README.md` file for the provided code:
-
 ```markdown
 # XFCE4 Desktop Environment Setup Script
 
